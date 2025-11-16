@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.venv/
+
+# Model weights / large files
+*.pt
+
+# Next.js build
+frontend/.next/
+frontend/node_modules/
